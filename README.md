@@ -48,7 +48,7 @@ ensure qb-garages
 ```
 
 ## Configuration
-An example to add spawn option
+An example to add spawn option if you don;t want lonly last location as an option!
 ```
 QB.Spawns = {
     ["spawn1"] = { -- Needs to be unique
