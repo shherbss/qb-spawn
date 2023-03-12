@@ -1,6 +1,10 @@
 # qb-spawn
 Spawn Selector for QB-Core Framework :eagle:
 
+# Simple
+
+Simple visual edit for qb-spawn with only a last location available to spawn to prevent not returning to scenes.
+
 # License
 
     QBCore Framework
