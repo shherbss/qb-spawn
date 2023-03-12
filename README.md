@@ -1,5 +1,5 @@
 # qb-spawn
-Spawn Selector for QB-Core Framework :eagle:
+Spawn Selector for QB-Core Framework :eagle: 
 
 # Simple
 
